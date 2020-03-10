@@ -1,0 +1,4 @@
+http://ping.myblog.jp
+http://rpc.blogrolling.com/pinger/
+http://ping.syndic8.com/xmlrpc.php
+http://ping.feedburner.com/

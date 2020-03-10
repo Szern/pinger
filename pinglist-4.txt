@@ -1,0 +1,4 @@
+http://blog.goo.ne.jp/XMLRPC
+http://ping.namaan.net/rpc
+http://ping.kutsulog.net
+http://ping.fc2.com

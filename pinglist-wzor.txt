@@ -1,0 +1,4 @@
+http://rpc.pingomatic.com/
+http://blogsearch.google.com/ping/RPC2
+http://xping.pubsub.com/ping/
+http://rpc.weblogs.com/RPC2

@@ -1,0 +1,4 @@
+http://hamo-search.com/ping.php
+http://www.blogpeople.net/ping
+http://www.zhuaxia.com/rpc/server.php
+http://blogsearch.google.com/ping/RPC2

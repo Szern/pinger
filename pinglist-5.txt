@@ -1,0 +1,4 @@
+http://ping.wordblog.de
+http://ping.blogs.yandex.ru/RPC2
+http://api.my.yahoo.co.jp/RPC2
+http://audiorpc.weblogs.com/RPC2

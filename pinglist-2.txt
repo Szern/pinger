@@ -1,0 +1,4 @@
+http://www.blogpeople.net/servlet/weblogUpdates
+http://services.newsgator.com/ngws/xmlrpcping.aspx
+http://rpc.twingly.com
+http://rpc.reader.livedoor.com/ping
